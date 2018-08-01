@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    class Program
+    class Future1
     {
-        static void Main(string[] args)
-        {
-            //Code to call future 1
-        }
     }
 }
